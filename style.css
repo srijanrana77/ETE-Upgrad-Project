@@ -1,0 +1,31 @@
+body{
+  background-image: url("back.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inputs{
+  margin-top: 100px;
+  text-align: center;
+}
+#input1,#input2,#input3,#sub{
+  width: 120px;
+  height: 30px;
+  display: inline;
+}
+#input1{
+  background-color: rgb(128, 201, 211);
+}
+#sub{
+  background-color: blue;
+}
+#demo{
+  margin-left: 40%;
+  margin-right: 40%;
+  width: 500px;
+  background-color: blue;
+  text-decoration-color: white;
+  text-align: center;
+}
